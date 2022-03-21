@@ -14,4 +14,4 @@ entry.configure(bg='blue', fg='white', font=("Calibri", 8, "bold"))
 greeting.pack()
 entry.pack()
 
-window.mainloop
+window.mainloop()
